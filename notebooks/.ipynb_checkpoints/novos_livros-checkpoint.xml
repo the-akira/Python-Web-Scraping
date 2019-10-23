@@ -1,0 +1,22 @@
+<biblioteca>
+	<livro categoria="Cyber Punk">
+		<titulo lang="en">Neuromancer</titulo>
+		<autor>William Gibson</autor>
+		<ano>1984</ano>
+	</livro>
+	<livro categoria="Distopia">
+		<titulo lang="en">Nineteen Eighty-Four: A Novel</titulo>
+		<autor>George Orwell</autor>
+		<ano>1949</ano>
+	</livro>
+	<livro categoria="Ci&#234;ncia da Computa&#231;&#227;o">
+		<titulo lang="en">How to Think Like a Computer Scientist</titulo>
+		<autor>Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers</autor>
+		<ano>2012</ano>
+	</livro>
+	<livro categoria="Programa&#231;&#227;o">
+		<titulo lang="en">Making Games with Python and Pygame</titulo>
+		<autor>AI Sweigart</autor>
+		<ano>2012</ano>
+	</livro>
+</biblioteca>
