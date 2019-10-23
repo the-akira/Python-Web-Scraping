@@ -11,9 +11,9 @@
 
 ## Introducao
 
-**Web Scraping**, **Web Harvesting**, ou **Web Data Extraction** são nomes dados à tècnica de raspagem de dados utilizada para extrair dados de sites. O software de scraping da Web pode acessar a **World Wide Web (WWW)** diretamente usando o **Hypertext Transfer Protocol (HTTP)** através de uma linguagem de programação, ou até mesmo através de um navegador da Web. 
+**Web Scraping**, **Web Harvesting**, ou **Web Data Extraction** são nomes dados à tècnica de raspagem de dados utilizada para extrair dados de sites. O software de scraping da Web pode acessar a **[World Wide Web (WWW)](https://www.w3.org/WWW/)** diretamente usando o **[Hypertext Transfer Protocol (HTTP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)** através de uma linguagem de programação, ou até mesmo através de um navegador da Web. 
 
-Embora **Web Scraping** possa ser feito manualmente por um usuário de software, o termo geralmente se refere a processos automatizados implementados usando um **bot** ou **web crawler**. É uma forma de cópia, na qual dados específicos são coletados e copiados da Web, geralmente em um banco de dados ou planilha, para recuperação ou análise posterior.
+Embora **Web Scraping** possa ser feito manualmente por um usuário de software, o termo geralmente se refere a processos automatizados implementados usando um **bot** ou **[web crawler](https://en.wikipedia.org/wiki/Web_crawler)**. É uma forma de cópia, na qual dados específicos são coletados e copiados da Web, geralmente em um banco de dados ou planilha, para recuperação ou análise posterior.
 
 ## Modus Operandi
 
@@ -37,14 +37,14 @@ O **Web Scraper** é uma ferramenta projetada para extrair com precisão e rapid
 
 **Web scraping** é muito usado para raspagem de contatos e, como componente de aplicativos usados para indexação na Web, mineração na Web e mineração de dados, monitoramento online de alterações de preços e comparação de preços, raspagem de revisão de produtos (para assistir à competição), coleta de anúncios imobiliários, dados de monitoramento climáticos, detecção de alterações no site, pesquisa, rastreamento da presença e reputação online, e integração de dados da web.
 
-As páginas da Web são criadas usando linguagens de marcação baseadas em texto (HTML e XHTML) e frequentemente contêm uma grande quantidade de dados úteis em forma de texto. No entanto, a maioria das páginas da web é projetada para usuários finais humanos e não para facilitar o uso automatizado. Por esse motivo, foram criados kits de ferramentas que raspam o conteúdo da Web. Um Web Scraper é uma API (Application Programming Interface) para extrair dados de um site. Empresas como Amazon AWS e Google fornecem ferramentas, serviços e dados públicos disponíveis, gratuitamente, para os usuários finais.
+As páginas da Web são criadas usando linguagens de marcação baseadas em texto (HTML e XHTML) e frequentemente contêm uma grande quantidade de dados úteis em forma de texto. No entanto, a maioria das páginas da web é projetada para usuários finais humanos e não para facilitar o uso automatizado. Por esse motivo, foram criados kits de ferramentas que raspam o conteúdo da Web. Um Web Scraper é uma API ([Application Programming Interface](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f)) para extrair dados de um site. Empresas como Amazon AWS e Google fornecem ferramentas, serviços e dados públicos disponíveis, gratuitamente, para os usuários finais.
 
 ## Historia
 
-- Após o nascimento da World Wide Web em 1989, o primeiro robô da Web - **World Wide Web Wanderer** foi criado em junho de 1993, com o objetivo de medir apenas o tamanho da Web.
+- Após o nascimento da World Wide Web em 1989, o primeiro robô da Web: **World Wide Web Wanderer** foi criado em junho de 1993, com o objetivo de medir apenas o tamanho da Web.
 - Em dezembro de 1993, o primeiro mecanismo de pesquisa na Web baseado em um Crawler foi chamado de JumpStation. Como não havia muitos sites disponíveis na Web, os mecanismos de pesquisa da época costumavam contar com os administradores humanos de sites para coletar e editar os links em um formato específico. O JumpStation deu um novo salto. É o primeiro mecanismo de pesquisa da WWW que depende de um robô da web.
 - No ano 2000 surgiu a primeira **Web API** e consequentemente o primeiro **crawler de API's**. API significa Application Programming Interface. É uma interface que facilita muito o desenvolvimento de um programa, fornecendo os blocos de construção. Em 2000, o Salesforce e o eBay lançaram sua própria API, com a qual os programadores foram habilitados a acessar e baixar alguns dos dados disponíveis ao público. Desde então, muitos sites oferecem APIs da web para que as pessoas acessem seus bancos de dados públicos.
-- Em 2004, **Beautiful Soup** foi lançado. É uma biblioteca projetada para Python. Como nem todos os sites oferecem APIs, os programadores ainda estavam trabalhando no desenvolvimento de uma abordagem que pudesse facilitar a raspagem da Web. Com comandos simples, Beautiful Soup pode analisar o conteúdo de dentro do contêiner HTML. É considerada a biblioteca mais sofisticada e avançada para raspagem da Web, e também uma das abordagens mais comuns e populares atualmente.
+- Em 2004, **[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)** foi lançado. É uma biblioteca projetada para Python. Como nem todos os sites oferecem APIs, os programadores ainda estavam trabalhando no desenvolvimento de uma abordagem que pudesse facilitar a raspagem da Web. Com comandos simples, Beautiful Soup pode analisar o conteúdo de dentro do contêiner HTML. É considerada a biblioteca mais sofisticada e avançada para raspagem da Web, e também uma das abordagens mais comuns e populares atualmente.
 
 ## Tecnicas
 
@@ -60,4 +60,4 @@ As páginas da Web são criadas usando linguagens de marcação baseadas em text
 
 ## Python Web Scraping
 
-Esta **[lista](https://github.com/lorien/awesome-web-scraping/blob/master/python.md)** contém Bibliotecas Python relacionadas a Web Scraping e processamento de dados.
+Python é uma linguagem muito utilizada para Web Scraping, você pode conferir **[Web Scraping Python](https://github.com/lorien/awesome-web-scraping/blob/master/python.md)** para conhecer a lista de diversas Bibliotecas relacionadas a Web Scraping e processamento de dados em Python.
