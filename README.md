@@ -1,7 +1,7 @@
 <h1 align="center">Python Web Scraping</h1>
 
 <h1 align="center">
-    <img alt="Python" title="Python-Scraping" src="https://i.imgur.com/feY1A09.png"> </br>
+    <img alt="Python" title="Python-Scraping" src="https://i.imgur.com/96C1Cjd.png"> </br>
 </h1>
 
 <p align="center">
