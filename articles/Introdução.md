@@ -2,14 +2,14 @@
 
 ## Conteúdo
 
-1. [Introdução](#Introducao)
+1. [Introducao](#Introducao)
 2. [Modus Operandi](#Modus-Operandi)
 3. [Utilidade](#Utilidade)
-4. [História](#Historia)
-5. [Técnicas](#Tecnicas)
+4. [Historia](#Historia)
+5. [Tecnicas](#Tecnicas)
 6. [Python Web Scraping](#Python-Web-Scraping)
 
-## Introdução
+## Introducao
 
 **Web Scraping**, **Web Harvesting**, ou **Web Data Extraction** são nomes dados à tècnica de raspagem de dados utilizada para extrair dados de sites. O software de scraping da Web pode acessar a **World Wide Web (WWW)** diretamente usando o **Hypertext Transfer Protocol (HTTP)** através de uma linguagem de programação, ou até mesmo através de um navegador da Web. 
 
@@ -39,14 +39,14 @@ O **Web Scraper** é uma ferramenta projetada para extrair com precisão e rapid
 
 As páginas da Web são criadas usando linguagens de marcação baseadas em texto (HTML e XHTML) e frequentemente contêm uma grande quantidade de dados úteis em forma de texto. No entanto, a maioria das páginas da web é projetada para usuários finais humanos e não para facilitar o uso automatizado. Por esse motivo, foram criados kits de ferramentas que raspam o conteúdo da Web. Um Web Scraper é uma API (Application Programming Interface) para extrair dados de um site. Empresas como Amazon AWS e Google fornecem ferramentas, serviços e dados públicos disponíveis, gratuitamente, para os usuários finais.
 
-## História
+## Historia
 
 - Após o nascimento da World Wide Web em 1989, o primeiro robô da Web - **World Wide Web Wanderer** foi criado em junho de 1993, com o objetivo de medir apenas o tamanho da Web.
 - Em dezembro de 1993, o primeiro mecanismo de pesquisa na Web baseado em um Crawler foi chamado de JumpStation. Como não havia muitos sites disponíveis na Web, os mecanismos de pesquisa da época costumavam contar com os administradores humanos de sites para coletar e editar os links em um formato específico. O JumpStation deu um novo salto. É o primeiro mecanismo de pesquisa da WWW que depende de um robô da web.
 - No ano 2000 surgiu a primeira **Web API** e consequentemente o primeiro **crawler de API's**. API significa Application Programming Interface. É uma interface que facilita muito o desenvolvimento de um programa, fornecendo os blocos de construção. Em 2000, o Salesforce e o eBay lançaram sua própria API, com a qual os programadores foram habilitados a acessar e baixar alguns dos dados disponíveis ao público. Desde então, muitos sites oferecem APIs da web para que as pessoas acessem seus bancos de dados públicos.
 - Em 2004, **Beautiful Soup** foi lançado. É uma biblioteca projetada para Python. Como nem todos os sites oferecem APIs, os programadores ainda estavam trabalhando no desenvolvimento de uma abordagem que pudesse facilitar a raspagem da Web. Com comandos simples, Beautiful Soup pode analisar o conteúdo de dentro do contêiner HTML. É considerada a biblioteca mais sofisticada e avançada para raspagem da Web, e também uma das abordagens mais comuns e populares atualmente.
 
-## Técnicas
+## Tecnicas
 
 **Web Scraping** é o processo de mineração automática de dados ou coleta de informações da World Wide Web. É um campo com desenvolvimentos ativos que compartilham um objetivo comum com a visão semântica da web, uma iniciativa ambiciosa que ainda exige avanços no processamento de texto, entendimento semântico, inteligência artificial e interações homem-computador. As soluções atuais de Web Scraping variam desde o ad-hoc, exigindo esforço humano, a sistemas totalmente automatizados, capazes de converter sites inteiros em informações estruturadas, com limitações.
 
