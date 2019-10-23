@@ -1,5 +1,9 @@
 <h1 align="center">Python Web Scraping</h1>
 
+<h1 align="center">
+    <img alt="Python" title="Python-Scraping" src="https://i.imgur.com/lCUdNpt.gif"> </br>
+</h1>
+
 <p align="center">
 	Explorando Técnicas de Web Scraping com Python
 </p>
