@@ -20,16 +20,16 @@ Caso queira saber mais detalhes sobre o framework: https://scrapy.org/
 
 Para fazermos a instalação, podemos usar `pip`:
 
-```python
->>> pip install scrapy
+```
+pip install scrapy
 ```
 
 ## Scrapy Shell
 
 Scrapy Shell é uma ferramenta que nos possibilita experimentar as diferentes possibilidades de como podemos extrair os dados que desejamos
 
-```python
->>> scrapy shell http://quotes.toscrape.com/random
+```
+scrapy shell http://quotes.toscrape.com/random
 ```
 
 Scrapy Shell irá fazer o download da página da URL que passamos e nos fornecerá um objeto *response* que nós podemos utilizar para extrair dados da página. Por exemplo:
