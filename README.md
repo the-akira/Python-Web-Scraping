@@ -19,5 +19,6 @@
 05. [A Biblioteca Requests-HTML](https://nbviewer.jupyter.org/github/the-akira/Python-Web-Scraping/blob/master/notebooks/Requests-HTML.ipynb)
 06. [Construindo um Simples Web Crawler](https://nbviewer.jupyter.org/github/the-akira/Python-Web-Scraping/blob/master/notebooks/Web%20Crawler.ipynb)
 07. [Analisando Documentos HTML com PyQuery](https://nbviewer.jupyter.org/github/the-akira/Python-Web-Scraping/blob/master/notebooks/PyQuery.ipynb)
+08. [O Framework Scrapy](https://github.com/the-akira/Python-Web-Scraping/blob/master/articles/Scrapy.md)
 
 ---------------------------------------
