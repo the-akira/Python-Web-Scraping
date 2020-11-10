@@ -1,19 +1,15 @@
 # Web Scraping
 
----------------------------------------
-
 ## Conteúdo
 
-1. [Introducao](#Introducao)
+1. [Introdução](#introdução)
 2. [Modus Operandi](#Modus-Operandi)
-3. [Utilidade](#Utilidade)
-4. [Historia](#Historia)
-5. [Tecnicas](#Tecnicas)
+3. [Utilidade](#utilidade)
+4. [História](#história)
+5. [Técnicas](#técnicas)
 6. [Python Web Scraping](#Python-Web-Scraping)
 
----------------------------------------
-
-## Introducao
+## Introdução
 
 **Web Scraping**, **Web Harvesting**, ou **Web Data Extraction** são nomes dados à tècnica de raspagem de dados utilizada para extrair dados de sites. O software de scraping da Web pode acessar a **[World Wide Web (WWW)](https://www.w3.org/WWW/)** diretamente usando o **[Hypertext Transfer Protocol (HTTP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)** através de uma linguagem de programação, ou até mesmo através de um navegador da Web. 
 
@@ -49,7 +45,7 @@ As páginas da Web são criadas usando linguagens de marcação baseadas em text
 
 ---------------------------------------
 
-## Historia
+## História
 
 - Após o nascimento da World Wide Web em 1989, o primeiro robô da Web: **World Wide Web Wanderer** foi criado em junho de 1993, com o objetivo de medir apenas o tamanho da Web.
 - Em dezembro de 1993, o primeiro mecanismo de pesquisa na Web baseado em um Crawler foi chamado de JumpStation. Como não havia muitos sites disponíveis na Web, os mecanismos de pesquisa da época costumavam contar com os administradores humanos de sites para coletar e editar os links em um formato específico. O JumpStation deu um novo salto. É o primeiro mecanismo de pesquisa da WWW que depende de um robô da web.
@@ -58,7 +54,7 @@ As páginas da Web são criadas usando linguagens de marcação baseadas em text
 
 ---------------------------------------
 
-## Tecnicas
+## Técnicas
 
 **Web Scraping** é o processo de mineração automática de dados ou coleta de informações da World Wide Web. É um campo com desenvolvimentos ativos que compartilham um objetivo comum com a visão semântica da web, uma iniciativa ambiciosa que ainda exige avanços no processamento de texto, entendimento semântico, inteligência artificial e interações homem-computador. As soluções atuais de Web Scraping variam desde o ad-hoc, exigindo esforço humano, a sistemas totalmente automatizados, capazes de converter sites inteiros em informações estruturadas, com limitações.
 
