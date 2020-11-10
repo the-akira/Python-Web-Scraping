@@ -27,6 +27,8 @@ O **Web Scraping** de uma página web envolve buscá-la e extraí-la. Buscar é 
 
 O **Web Crawler**, também muito conhecido por **Spider** é uma inteligência artificial que navega na Internet para indexar e pesquisar conteúdo seguindo links e explorando, como uma pessoa com muito tempo em suas mãos.
 
+---------------------------------------
+
 #### O Web Scraper
 
 <img align="left" width="67px" height="82px" src="https://i.imgur.com/GIvn8Sp.png" />
