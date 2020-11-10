@@ -33,6 +33,8 @@ O **Web Crawler**, também muito conhecido por **Spider** é uma inteligência a
 
 O **Web Scraper** é uma ferramenta projetada para extrair com precisão e rapidez os dados de uma página da web. Os Web Scrapers variam muito em design e complexidade, dependendo de cada projeto e sua necessidade.
 
+---------------------------------------
+
 ## Utilidade
 
 **Web scraping** é muito usado para raspagem de contatos e, como componente de aplicativos usados para indexação na Web, mineração na Web e mineração de dados, monitoramento online de alterações de preços e comparação de preços, raspagem de revisão de produtos (para assistir à competição), coleta de anúncios imobiliários, dados de monitoramento climáticos, detecção de alterações no site, pesquisa, rastreamento da presença e reputação online, e integração de dados da web.
