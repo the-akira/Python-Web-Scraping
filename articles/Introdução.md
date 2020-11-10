@@ -17,13 +17,13 @@ Embora **Web Scraping** possa ser feito manualmente por um usuário de software,
 
 ## Modus Operandi
 
-![img](https://i.imgur.com/3fviI34.png)
+![img](https://raw.githubusercontent.com/the-akira/Python-Web-Scraping/master/images/WebScraping.png)
 
 O **Web Scraping** de uma página web envolve buscá-la e extraí-la. Buscar é a ação de fazer download de uma página (o que um navegador faz quando você visualiza a página). O **web crawling** é um componente principal dentro do contexto de **Web Scraping**, para buscar páginas para processamento posterior. Uma vez obtida a página, a extração dos dados pode ocorrer. O conteúdo de uma página pode ser analisado, pesquisado, reformatado, seus dados copiados para uma planilha e assim por diante.
 
 #### O Web Crawler
 
-<img align="left" width="67px" height="82px" src="https://i.imgur.com/LiWVDQq.png" />
+<img align="left" width="90px" height="90px" src="https://raw.githubusercontent.com/the-akira/Python-Web-Scraping/master/images/Spider.png" />
 
 O **Web Crawler**, também muito conhecido por **Spider** é uma inteligência artificial que navega na Internet para indexar e pesquisar conteúdo seguindo links e explorando, como uma pessoa com muito tempo em suas mãos.
 
@@ -31,7 +31,7 @@ O **Web Crawler**, também muito conhecido por **Spider** é uma inteligência a
 
 #### O Web Scraper
 
-<img align="left" width="67px" height="82px" src="https://i.imgur.com/GIvn8Sp.png" />
+<img align="left" width="90px" height="90px" src="https://raw.githubusercontent.com/the-akira/Python-Web-Scraping/master/images/Scraper.png" />
 
 O **Web Scraper** é uma ferramenta projetada para extrair com precisão e rapidez os dados de uma página da web. Os Web Scrapers variam muito em design e complexidade, dependendo de cada projeto e sua necessidade.
 
